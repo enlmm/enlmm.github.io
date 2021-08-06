@@ -48,7 +48,7 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	<li>Fast pre-training techniques, avoiding pre-training from scratch</li>
 	<li>Multi-domain pre-training/fine-tuning and fast domain adaptation for pre-trained/fine tuned models</li>
 	<li>Multimodal pre-trained (e.g., text--speech) models</li>
-	<li>Avoiding task-specific fune-tuning of pre-trained models</li>
+	<li>Avoiding task-specific fine tuning of pre-trained models</li>
 	<li>New efficient architectures for pre-trained models</li>
 </ul>
 
@@ -275,7 +275,7 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 </div>
 
 <br> <br>
-<h2 class="blackpar_title" id="Schedule">Schedule (comming soon!)</h2>
+<h2 class="blackpar_title" id="Schedule">Schedule (coming soon!)</h2>
 
 
 <!--
@@ -506,4 +506,5 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 	<li>Mingxuan Wang (ByteDance)</li>
 	<li>Tanya Roosta (Amazon)</li>
 	<li>Soheila Samiee (BASF)</li>
+	<li>Hamidreza Mahyar (McMaster University)</li>
 </ul>
