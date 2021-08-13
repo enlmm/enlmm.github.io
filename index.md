@@ -141,7 +141,7 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 	  </div>
 	</div>
 	<div class="card column">
-	  <img src="/images/kevin.jpg" alt="Kevin Duh" class="img_card">
+	  <img src="/images/kevin1.png" alt="Kevin Duh" class="img_card">
 	  <div class="container">
 		<center>
 		<h4>
