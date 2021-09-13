@@ -101,14 +101,13 @@ You are invited to submit your papers in our CMT submission <a href='https://cmt
 Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. Although original submissions are preferred, submitted papers can be among your already published or ArXiv papers, and your under submission works. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the Best Paper Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
 </p>
 
-Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
-	<li>Submission Deadline: <del>September 18, 2021</del> <b>September 22, 2021</b></li>
-	<li>Acceptance Notification: October 23, 2021</li>
-	<li>Camera-Ready Submission: November 1, 2021</li>
+	<li>Submission Deadline: <del>September 18, 2021</del> <b>September 22, 2021 AOE</b></li>
+	<li>Acceptance Notification: October 23, 2021 <b>AOE</b></li>
+	<li>Camera-Ready Submission: November 1, 2021 <b>AOE</b></li>
 	<li>Workshop Date: December 13, 2021</li>
 </ul>
 
@@ -481,6 +480,7 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 	<li>Kevin Duh (Johns Hopkins University)</li>
 	<li>Bang Liu (University of Montreal (UDM))</li>
 	<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
+	<li>Vahid Partovi Nia (Huawei Technologies)</li>
 	<li>Peyman Passban (Amazon)</li>
 	<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
 	<li>Jad Kabbara (McGill University & MILA)</li> 
@@ -513,5 +513,4 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 	<li>Habib Hajimolahoseini (Huawei Technologies)</li>
 	<li>Mohammad Salameh (Huawei Technologies)</li>
 	<li>Kira Aveline Selby (University of Waterloo)</li>
-	<li>Vahid Partovi Nia (Huawei Technologies)</li>
 </ul>
