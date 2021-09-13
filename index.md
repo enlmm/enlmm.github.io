@@ -106,7 +106,7 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 <br><br>
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
-	<li>Submission Deadline: September 18, 2021</li>
+	<li>Submission Deadline: <del>September 18, 2021</del> <b>September 22, 2021</b></li>
 	<li>Acceptance Notification: October 23, 2021</li>
 	<li>Camera-Ready Submission: November 1, 2021</li>
 	<li>Workshop Date: December 13, 2021</li>
@@ -507,4 +507,11 @@ Note: <b>The submission portal will be opened on Aug. 15th AOE. </b>
 	<li>Tanya Roosta (Amazon)</li>
 	<li>Soheila Samiee (BASF)</li>
 	<li>Hamidreza Mahyar (McMaster University)</li>
+	<li>Yimeng Wu (Huawei Noah's Ark Lab)</li>
+	<li>Omar Mohamed Awad (Huawei Technologies)</li>
+	<li>Marzieh Tahaei (Huawei Noah's Ark Lab)</li>
+	<li>Habib Hajimolahoseini (Huawei Technologies)</li>
+	<li>Mohammad Salameh (Huawei Technologies)</li>
+	<li>Kira Aveline Selby (University of Waterloo)</li>
+	<li>Vahid Partovi Nia (Huawei Technologies)</li>
 </ul>
