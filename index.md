@@ -480,7 +480,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	<li>Kevin Duh (Johns Hopkins University)</li>
 	<li>Bang Liu (University of Montreal (UDM))</li>
 	<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
-	<li>Vahid Partovi Nia (Huawei Technologies)</li>
+	<li>Vahid Partovi Nia (Huawei Noah's Ark Lab)</li>
 	<li>Peyman Passban (Amazon)</li>
 	<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
 	<li>Jad Kabbara (McGill University & MILA)</li> 
