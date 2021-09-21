@@ -513,4 +513,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	<li>Habib Hajimolahoseini (Huawei Technologies)</li>
 	<li>Mohammad Salameh (Huawei Technologies)</li>
 	<li>Kira Aveline Selby (University of Waterloo)</li>
+	<li>Mohammed Senoussaoui (Fluent.ai)</li>
+	<li>M. Sarria-Paja (Universidad Santiago de Cali)</li>
 </ul>
