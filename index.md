@@ -106,6 +106,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title">Important Dates:</h2>
 <ul>
 	<li>Submission Deadline: <del>September 18, 2021</del> <b>September 22, 2021 AOE</b></li>
+        <li>Uploading Supplementary Materials: <b>September 26, 2021 AOE</b></li>
 	<li>Acceptance Notification: October 23, 2021 <b>AOE</b></li>
 	<li>Camera-Ready Submission: November 1, 2021 <b>AOE</b></li>
 	<li>Workshop Date: December 13, 2021</li>
