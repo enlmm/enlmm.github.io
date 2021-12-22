@@ -51,6 +51,10 @@
   font-size: 30px;
   margin-top:2%;
 }
+nav{
+	position: absolute;
+	margin-right: 50px;
+}
 </style>
 
 <header class="site-header">
@@ -89,7 +93,7 @@
         </label>
 
         <!-- Adding customized header (Anderson) -->
-        <div class="trigger">
+        <div class="trigger" style="margin-left:-50px">
           {%- if site.header_menu -%}
             {%- for link in site.header_menu -%}
               <a class="page-link_perso" href="/#{{ link }}"> {{ link }} </a>
