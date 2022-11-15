@@ -230,6 +230,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	  </div>
 	</div>
 </div>
+<!-- Advisory Committee -->
 <h2 class="blackpar_title" id="Advisory Committee">Advisory Committee</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso" style="margin-left:25%;">
