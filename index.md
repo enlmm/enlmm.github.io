@@ -230,25 +230,37 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title" id="Organizers">Advisory Committee</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso" style="margin-left:25%;">
-	  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso">
+	  <img src="images/ahmed-awadallah.jpg" alt="Ahmed H. Awadallah" class="img_card_perso">
 	  <div class="container_perso" >
 		<center>
 		<h6>
-			<b>Khalil Bibi</b>
+			<b>Ahmed H. Awadallah</b>
 			<br>
-			Huawei Noah's Ark Lab
+            Microsoft
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/anderson_avilla.jpg" alt="Anderson Avilla" class="img_card_perso">
+	  <img src="images/danqi-chen.jpg" alt="Danqi Chen" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Andrson Avilla</b>
+			<b>Danqi Chen</b>
 			<br>
-			Huawei Noah's Ark Lab
+            Princeton University
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<div class="card_perso column_perso">
+	  <img src="images/sasha-rush.jpg" alt="Alexander Rush" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Alexander Rush</b>
+			<br>
+            Cornell University
 		</h6>
 		</center>
 	  </div>
@@ -298,7 +310,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
               <li>Siqi Sun (Fudan University)</li>
               <li>Zhe Gan (Apple)</li>
               <li>Xiaohan Chen (Alibaba)</li>
-              <li>Jingzhou Liu (Meta)
+              <li>Jingzhou Liu (Meta)</li>
 			</ul>
 		</td>
 	</tr>
