@@ -51,18 +51,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Speakers</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso">
-	  <img src="images/bang-liu.jpeg" alt="Bang Liu" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Prof.<br>Bang Liu</b>
-			<br>
-            University of Montreal
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
 	  <img src="images/Yejin.jpg" alt="Yejin Choi" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -70,18 +58,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 			<b>Prof.<br>Yejin Choi</b>
 			<br>
 			University of Washington (Allen Institute for AI)
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
-	  <img src="images/jianfeng-gao.jpg" alt="Jianfeng Gao" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Dr.<br>Jianfeng Gao</b>
-			<br>
-            Microsoft Research
 		</h6>
 		</center>
 	  </div>
@@ -111,18 +87,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	  </div>
 	</div-->
 	<div class="card_perso column_perso">
-	  <img src="images/sameer-singh.jpg" alt="Sameer Singh" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Prof.<br>Sameer Singh</b>
-			<br>
-            University of California Irvine
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
 	  <img src="images/chunting-zhou.png" alt="Chunting Zhou" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
@@ -138,37 +102,37 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 
 <div class="row_perso">
 	<div class="card_perso column_perso">
-	  <img src="/images/sameer_singh.jpg" alt="Saneer Singh" class="img_card_perso">
+	  <img src="images/sameer-singh.jpg" alt="Sameer Singh" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
 			<b>Prof.<br>Sameer Singh</b>
 			<br>
-			University of California
+            University of California Irvine
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/danqi_2019.jpg" alt="Danqi Chen" class="img_card_perso">
+	  <img src="images/bang-liu.jpeg" alt="Bang Liu" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Prof.<br>Danqi Chen</b>
+			<b>Prof.<br>Bang Liu</b>
 			<br>
-			Princeton University
+            University of Montreal
 		</h6>
 		</center>
 	  </div>
-	</div>	
+	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/norouzi.jpg" alt="Mohammad Norouzi" class="img_card_perso">
+	  <img src="images/jianfeng-gao.jpg" alt="Jianfeng Gao" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Dr.<br>Mohammad Norouzi</b>
+			<b>Dr.<br>Jianfeng Gao</b>
 			<br>
-			Google Brain
+            Microsoft Research
 		</h6>
 		</center>
 	  </div>
@@ -177,59 +141,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 
 
 <div class="row_perso">
-	<div class="card_perso column_perso">
-	  <img src="/images/houlu.jpg" alt="Lu Hou" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Dr.<br>Lu Hou</b>
-			<br>
-			Huawei Noah's Ark Lab
-		</h6>
-		</center>
-	  </div>
-	</div>
-
-	<div class="card_perso column_perso">
-	  <img src="/images/xu_sun.jpg" alt="Xu Sun" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Prof.<br>Xu Sun</b>
-			<br>
-			Peking University
-		</h6>
-		</center>
-	  </div>
-	</div>	
-	
-
-	<div class="card_perso column_perso">
-	  <img src="/images/barbara.png" alt="Barbara Plank" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Prof.<br>Barbara Plank</b>
-			<br>
-			IT University of Copenhagen
-		</h6>
-		</center>
-	  </div>
-	</div>
-	
-	<div class="card_perso column_perso">
-	  <img src="/images/samira_ebrahimi_kahou.jpg" alt="Samira Ebrahimi Kahou" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Prof.<br>Samira Ebrahimi Kahou</b>
-			<br>
-			ETS & MILA
-		</h6>
-		</center>
-	  </div>
-	</div>
-	
 </div>
 
 <br> <br>
