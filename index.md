@@ -265,135 +265,44 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	<tr>
 		<td>
 			<ul>
-				<li>Pascal Poupart (UoWaterloo)</li>
-				<li>Kevin Duh (Johns Hopkins University)</li>
-				<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
-				<li>Bang Liu (UoMontreal)</li>
-				<li>Di Jin (Amazon Alexa AI)</li>
-				<li>Hamidreza Mahyar (McMaster University)</li>
-				<li>Lili Mou (UoAlberta)</li>
-				<li>Peyman Passban (Amazon)</li>
-				<li>Prasanna Parthasarathi (McGill & MILA)</li> 
-				<li>Vahid Partovi Nia (Huawei Noah's Ark Lab)</li>
-				<li>Yue Dong (McGill  & MILA)</li>
-				<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
-				<li>Jad Kabbara (McGill  & MILA)</li> 
-				<li>Aref Jafari (UoWaterloo)</li> 
-				<li>Ahmad Rashid (Huawei Noah's Ark Lab)</li> 
-				<li>Shailza Jolly (TU Kaiserslautern)</li> 
-				<li>Md. Akmal Haidar (Nuance Communications)</li> 
-				<li>Jingjing Xu (ByteDance)</li> 
-				<li>Vasileios Lioutas (UoBritish Colombia (UBC))</li> 
-				<li>Anderson R. Avila (Huawei Noah's Ark Lab)</li> 
-				<li>Malik H. Altakrori (McGill & MILA)</li> 
-				<li>Ali Vahdat (Thomson Reuters)</li> 
-				<li>Fattane Zarrinkalam (Thomson Reuters)</li> 
-				<li>Makesh S Narsimhan (McGill & MILA)</li> 
-				<li>Borna Jafarpour (Thomson Reuters)</li> 
-				<li>Shohreh Shaghaghian (Thomson Reuters)</li> 
-				<li>Ehsan Kamalloo (UoAlberta)</li>
-				<li>Ali Saheb Pasand (UoWaterloo)</li>
+              <li>Mojtaba Valipour (University of Waterloo)</li>
+              <li>Atif Mahmoud (University of Waterloo)</li>
+              <li>Marzieh Tahaei (Huawei Noah’s Ark Lab)</li>
+              <li>Chen Zhu (Google Brain)</li>
+              <li>Shuang Ma (Microsoft Research)</li>
+              <li>Thierry Tambe (Harvard University)</li>
+              <li>Guoqing Zheng (Microsoft Research)</li>
+              <li>Chi Wang (Microsoft Research)</li>
+              <li>Zachary Ziegler (Harvard University)</li>
+              <li>Shuohang Wang (Microsoft Cloud & AI)</li>
+              <li>Subho Mukherjee (Microsoft Research)</li>
+              <li>Yuwei Fang (Microsoft Cloud & AI)</li>
+              <li>Tuhinangshu Choudhury (CMU)</li>
+              <li>Woojeong Jin (USC)</li>
+              <li>Xuxi Chen (UT Austin)</li>
+              <li>Tianlong Chen (UT Austin)</li>
 			</ul>
 		</td>
 		<td>
 			<ul>
-				<li>Abbas Ghaddar (Huawei Noah's Ark Lab)</li>
-				<li>Mehrdad Ganjeh (Ernst & Young (EY))</li>
-				<li>Mingxuan Wang (ByteDance)</li>
-				<li>Tanya Roosta (Amazon)</li>
-				<li>Soheila Samiee (BASF)</li>
-				<li>Yimeng Wu (Huawei Noah's Ark Lab)</li>
-				<li>Marzieh Tahaei (Huawei Noah's Ark Lab)</li>
-				<li>Habib Hajimolahoseini (Huawei Technologies)</li>
-				<li>Mohammad Salameh (Huawei Technologies)</li>
-				<li>Kira Aveline Selby (UoWaterloo)</li>
-				<li>Mohammed Senoussaoui (Fluent.ai)</li>
-				<li>M. Sarria-Paja (Universidad Santiago de Cali)</li>
-				<li>Puneeth Saladi (Huawei Noah's Ark Lab)</li>
-				<li>Flávio Ávila (Verisk Analytics)</li>
-				<li>Tal Schuster (MIT)</li>
-				<li>Irene Li (Yale)</li>
-				<li>Shentong Mo (Carnegie Mellon University)</li>
-				<li>Alpana Agarwal (Thapar University)</li>
-				<li>Vinay Kumar (Thapar University)</li>
-				<li>Shivani Malhotra (TIET Patiala)</li>
-				<li>Iman Keivanloo (Amazon)</li>
-				<li>Aashiq Muhamed (Amazon)</li>
-				<li>Robert L. Logan IV (UCI University)</li>
-				<li>Patrick Xia (Johns Hopkins University)</li>
-				<li>Moshe Wasserblat (Intel)</li>
-				<li>Guy Boudoukh (Intel)</li>
-				<li>Ankit Chadha (Amazon)</li>
-				<li>Khalil Bibi (Huawei Noah's Ark Lab)</li>
-				<li>David Alfonso Hermelo (Huawei Noah's Ark Lab)</li>
+              <li>Soheila Samiee (BASF)</li>
+              <li>Justin Chiu (Cornell Tech)</li>
+              <li>Jiawei Zhou (Harvard University)</li>
+              <li>Woojeong Kim (Cornell Tech)</li>
+              <li>Guanhua Zhang (UC Santa Barbara)</li>
+              <li>Bairu Hou (UC Santa Barbara)</li>
+              <li>Mehdi Rezagholizadeh (Huawei Noah’s Ark Lab)</li>
+              <li>Qiucheng Wu (UC Santa Barbara)</li>
+              <li>Jiabao Ji (UC Santa Barbara)</li>
+              <li>Yujian Liu (UC Santa Barbara)</li>
+              <li>Siqi Sun (Fudan University)</li>
+              <li>Zhe Gan (Apple)</li>
+              <li>Xiaohan Chen (Alibaba)</li>
+              <li>Jingzhou Liu (Meta)
 			</ul>
 		</td>
 	</tr>
 </table>
 
 
-<!--
-<ul>
-	<li>Ali Ghodsi (University of Waterloo)</li>
-	<li>Bang Liu (University of Montreal (UDM))</li>
-	<li>Di Jin (Amazon Alexa AI)</li>
-	<li>Hamidreza Mahyar (McMaster University)</li>
-	<li>Kevin Duh (Johns Hopkins University)</li>
-	<li>Lili Mou (University of Alberta)</li>
-	<li>Pascal Poupart (University of Waterloo)</li>
-	<li>Peyman Passban (Amazon)</li>
-	<li>Prasanna Parthasarathi (McGill University & MILA)</li> 
-	<li>Vahid Partovi Nia (Huawei Noah's Ark Lab)</li>
-	<li>Wulong Liu (Huawei Noah's Ark Lab)</li>
-	<li>Yue Dong (McGill University & MILA)</li>
-	<li>Ivan Kobyzev (Huawei Noah's Ark Lab)</li>
-	<li>Jad Kabbara (McGill University & MILA)</li> 
-	<li>Aref Jafari (University of Waterloo)</li> 
-	<li>Ahmad Rashid (Huawei Noah's Ark Lab)</li> 
-	<li>Shailza Jolly (TU Kaiserslautern)</li> 
-	<li>Md. Akmal Haidar (Huawei Noah's Ark Lab)</li> 
-	<li>Jingjing Xu (ByteDance)</li> 
-	<li>Vasileios Lioutas (University of British Colombia (UBC))</li> 
-	<li>Anderson R. Avila (Huawei Noah's Ark Lab)</li> 
-	<li>Malik H. Altakrori (Mc Gill University & MILA)</li> 
-	<li>Ali Vahdat (Thomson Reuters)</li> 
-	<li>Fattane Zarrinkalam (Thomson Reuters)</li> 
-	<li>Makesh S Narsimhan (McGill University & MILA)</li> 
-	<li>Nasrin Taghizadeh (University of Tehran)</li> 
-	<li>Borna Jafarpour (Thomson Reuters)</li> 
-	<li>Shohreh Shaghaghian (Thomson Reuters)</li> 
-	<li>Ehsan Kamalloo (University of Alberta)</li>
-	<li>Ali Saheb Pasand (University of Waterloo)</li>
-	<li>Abbas Ghaddar (Huawei Noah's Ark Lab)</li>
-	<li>Mehrdad Ganjeh (Ernst & Young (EY))</li>
-	<li>Mingxuan Wang (ByteDance)</li>
-	<li>Tanya Roosta (Amazon)</li>
-	<li>Soheila Samiee (BASF)</li>
-	<li>Yimeng Wu (Huawei Noah's Ark Lab)</li>
-	<li>Omar Mohamed Awad (Huawei Technologies)</li>
-	<li>Marzieh Tahaei (Huawei Noah's Ark Lab)</li>
-	<li>Habib Hajimolahoseini (Huawei Technologies)</li>
-	<li>Mohammad Salameh (Huawei Technologies)</li>
-	<li>Kira Aveline Selby (University of Waterloo)</li>
-	<li>Mohammed Senoussaoui (Fluent.ai)</li>
-	<li>M. Sarria-Paja (Universidad Santiago de Cali)</li>
-	<li>Puneeth Saladi (Huawei Noah's Ark Lab)</li>
-	<li>Flávio Ávila (Verisk Analytics)</li>
-	<li>Tal Schuster (MIT)</li>
-	<li>Irene Li (Yale)</li>
-	<li>Rongsheng Zhang</li>
-	<li>Shentong Mo (Carnegie Mellon University)</li>
-	<li>Alpana Agarwal (Thapar Institute of Engineering & Technology)</li>
-	<li>Vinay Kumar (Thapar Institute of Engineering & Technology)</li>
-	<li>Shivani Malhotra (Thapar Institute of Engineering & Technology)</li>
-	<li>Iman Keivanloo (Amazon)</li>
-	<li>Aashiq Muhamed (Amazon)</li>
-	<li>Robert L. Logan IV (UCI University)</li>
-	<li>Patrick Xia (Johns Hopkins University)</li>
-	<li>Moshe Wasserblat (Intel)</li>
-	<li>Guy Boudoukh (Intel)</li>
-	<li>Ankit Chadha (Amazon)</li>
-	<li>Khalil Bibi (Huawei Noah's Ark Lab)</li>
-</ul>
--->
 <br><br>
