@@ -10,39 +10,23 @@ layout: home
 
 <!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title">Efficient Natural Language and Speech Processing </h2>
-<h3 class="blackpar_title">(Models, Training and Inference)</h3>
+<h2 class="blackpar_title">Efficient Natural Language and Multimodal Models</h2>
 </center>
 <p>
 
-This workshop aims at introducing some fundamental problems in the field of natural language and speech processing which can be of interest to the general machine learning and deep learning community to improve the efficiency of the models, their training and inference. The workshop program offers an interactive platform for gathering experts and talents from academia and industry through different invited keynote talks, panel discussions, paper submissions and reviews, poster and oral presentations and a mentorship program.
-This will provide an opportunity to discuss and learn from each other, exchange ideas, build connections, and brainstorm on potential solutions and future collaborations. The topics of this workshop can be of interest for people working on general machine learning, deep learning, optimization, theory and NLP & Speech applications.
-
-<!--	
-The workshop will take place on <span class="blackhighlighted">DATE, 2021</span>. 
-Due to the pandemic, the workshop will be <span class="blackhighlighted">VIRTUAL</span>. More details will be provided soon. 
-
-Note that to attend the event, a registration on the ICLR website is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR link or use the zoom link by clicking on “join zoom” on the ICLR link. For the Poster session participants should une the Gather.town link. Note that papers id can be found on Accepter papers section.
+The landscape of AI has been significantly altered by the advances in large-scale pre-trained models, laying the groundwork for more general AI and allowing us to reach previously unattainable performance levels in natural language processing and multimodal learning. Despite the empirical success, these large-scale models require an enormous amount of computation to achieve high performance, hindering their deployment in devices with low memory and strict latency requirements. Additionally, these models often rely on large amounts of labeled training data that are difficult to acquire or annotate for many tasks, including those dealing with sensitive user data. Challenges also arise about how the model can continuously improve itself with feedback signals from users. We propose to organize a one-day track, focusing on model/data efficiency to build large-scale models.
 </p>
-<br>
--->
-<br><br>
-<h2 class="blackpar_title" id="Overview">Overview</h2>
+
 <p>
-Despite the great success of deep neural networks due to huge over-parameterization and using very large amount of data in different tasks of natural language processing (NLP) and speech processing, training or deploying these networks on devices or even cloud services with limited memory and computational power can be very expensive and challenging. For instance, pre-trained language models (PLMs) such as GPT-3 have led to a great breakthrough in NLP; but running GPT-3 with more than 170 billion parameters trained with more than 500 GB of data requires more than 10 Tesla V-100 GPUs. That being said, still improving the NLP and Speech models by increasing their number of parameters and incorporating more data is deemed a very common practice in the NLP and Speech domains. Therefore, it is of vital importance to invest on enhancing the efficiency of these models in terms of model architectures, training and inference from different perspectives highlighted in this workshop. In this regard, we would like to share some unique and fundamental challenges with the NeurIPS community to be considered in their future investigations.
+This event aims to bring together experts in machine learning, natural language processing, optimization, and systems to stimulate vibrant discussions toward a deeper and more explicit understanding of the connections in between and to foster new research directions toward advanced approaches to improve the efficiency of various NLP and multimodal models.
 </p>
-<br><br>
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
 
 
 
-We encourage the NeurIPS community to submit their solutions, ideas, and ongoing work concerning data, model, training, and inference efficiency for NLP and speech processing. The scope of this workshop includes, but not limited to, the following topics.
-
-<br><br>
-<b>Efficient Pre-Training and Fine-Tuning.</b> Pre-training is a very expensive process. Even a small modification to the configuration of the models requires the user to redo pre-training:
-<br>
+We encourage the community to submit their solutions, ideas, and ongoing work concerning efficiency for NLP and multimodal models. The scope of this workshop includes, but not limited to, the following topics.
 
 <ul>
 	<li>Fast pre-training techniques, avoiding pre-training from scratch</li>
@@ -52,71 +36,16 @@ We encourage the NeurIPS community to submit their solutions, ideas, and ongoing
 	<li>New efficient architectures for pre-trained models</li>
 </ul>
 
-<br>
-<b>Model Compression.</b> Neural model compression techniques such as quantization, pruning, layer decomposition and knowledge distillation (KD) aim at reducing the number of parameters of the models, improving their memory requirements or running efficiency:
-<br>
-
-<ul>
-	<li>Impact of different compression techniques on the inductive biases learned by the original models</li>
-	<li>Combined compression techniques for more efficient NLP and speech models</li>
-	<li>Efficient KD for NLP and speech, efficient intermediate layer distillation, and teacher-free distillation</li>
-	<li>Improving KD for large classification problems (e.g., text generation and machine translation with a very large number of output classes)</li>
-	<li>Solving the <i>Capacity Gap</i> problem and the <i>Search Problem</i> associated with finding the best checkpoint of the teacher</li>
-	<li>Theory of KD (e.g., how does KD work?) </li>
-</ul>
-
-<br>
-<b>Efficient Training.</b> How to improve the training speed of the NLP and speech models:
-<br>
-<ul>
-	<li>Improving the optimizer for faster training</li>
-	<li>Accelerated training of different tasks in NLP and speech</li>
-	<li>Distributed training,  federated learning and continual learning for NLP and speech tasks </li>
-</ul>
-
-<br>
-<b>Data Efficiency.</b> Pre-trained models rely on a huge amount of unlabeled data which makes the training very sample inefficient:
-<br>
-<ul>
-	<li>Sample efficient training, training with less data, few-shot and zero-shot learning</li>
-	<li>Sample efficient data-augmentation, identifying which training samples should be augmented</li>
-	<li>Low-resource NLP and speech, considering training tasks with limited available data</li>
-</ul>
-
-<br>
-<b>Edge Intelligence.</b>  Running the trained models on edge devices will require a conversion process to match the network with hardware specifications:
-<br>
-<ul>
-	<li>TinyML for NLP and speech on embedded systems</li>
-	<li>Efficient conversion versus hardware-aware training</li>
-	<li>Training on device</li>
-</ul>
-
 
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 <p>
-You are invited to submit your papers in our CMT submission <a href='https://cmt3.research.microsoft.com/ENLSP2021'>portal</a>. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 6 pages, strictly following the NeurIPS template style (which can be found <a href='https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles'>here</a>). 
+The submission website will be up shortly. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages, following the ACL template style (which can be found <a href='https://github.com/acl-org/acl-style-files'>here</a>). 
 <br><br>
 Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. Although original submissions are preferred, submitted papers can be among your already published or ArXiv papers, and your under submission works. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the Best Paper Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
 </p>
 
 
-<br><br>
-<h2 class="blackpar_title">Important Dates:</h2>
-<ul>
-	<li>Submission Deadline: <del>September 22, 2021 AOE</del></li>
-        <li>Uploading Supplementary Materials: <del>September 26, 2021 AOE</del></li>
-	<li>Acceptance Notification: <del>October 23, 2021 AOE</del></li>
-	<li>Camera-Ready Submission: <del>November 1, 2021 AOE</del></li>
-	<li>Workshop Date: December 13, 2021</li>
-</ul>
-<div class="alert alert-success d-flex align-items-center" role="alert" style="font-size:20px;">
-	<i class="bi bi-exclamation-triangle" style="font-size: 1.5rem; margin-right:10px;"></i>
-	<div>
-		The accepted papers can be found <a href="./accepted_papers.html">here</a>.
-	</div>
-</div>
 <br><br>
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Speakers</h2>
