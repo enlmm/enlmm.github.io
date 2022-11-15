@@ -96,10 +96,10 @@ nav{
         <div class="trigger" style="margin-left:-50px">
           {%- if site.header_menu -%}
             {%- for link in site.header_menu -%}
-              <a class="page-link_perso" href="/#{{ link }}"> {{ link }} </a>
+              <a class="page-link_perso" href="#{{ link }}"> {{ link }} </a>
             {%- endfor -%}
           {%- endif -%}
-		  <a class="page-link_perso" href="./accepted_papers.html">Accepted papers</a>
+		  <!--a class="page-link_perso" href="./accepted_papers.html">Accepted papers</a-->
         </div>
       </nav>
     {%- endif -%}
