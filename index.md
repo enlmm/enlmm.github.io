@@ -26,11 +26,11 @@ This event aims to bring together experts in machine learning, natural language 
 We encourage the community to submit their solutions, ideas, and ongoing work concerning efficiency for NLP and multimodal models. The scope of this workshop includes, but not limited to, the following topics.
 
 <ul>
-	<li>Fast pre-training techniques, avoiding pre-training from scratch</li>
-	<li>Multi-domain pre-training/fine-tuning and fast domain adaptation for pre-trained/fine tuned models</li>
-	<li>Multimodal pre-trained (e.g., text--speech) models</li>
-	<li>Avoiding task-specific fine tuning of pre-trained models</li>
-	<li>New efficient architectures for pre-trained models</li>
+  <li> Efficient model architecture design for large-scale NLP and multimodal models.</li>
+  <li> Model compression and acceleration for large transformer-based models, such as quantization, pruning, and knowledge distillation for NLP and multimodal.</li>
+  <li> Efficient training/optimization/fine-tuning methods of NLP and multimodal models.</li>
+  <li> Efficient framework (e.g., DeepSpeed) to support NLP and multimodal models training and inference.</li>
+  <li> Novel methods such as sample efficient training, data augmentation, and data distillation to improve the data efficiency of NLP and multimodal models.</li>
 </ul>
 
 
