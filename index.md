@@ -141,6 +141,11 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 </div>
 
 <br> <br>
+<h2 class="blackpar_title" id="Schedule">Schedule (Tentative)</h2>
+<p>
+Our workshop will include 9 confirmed invited talks (30 min each). Four contributed talks (will be selected from paper submissions; 15 min each) encourage novel contributed work as well as highlight junior researchers. A panel discussion and two in-person poster sessions are created to encourage broad, interactive, and interdisciplinary discussions on open problems. Coffee breaks are scheduled right after poster sessions to allow sufficient time for interested participants to discuss and socialize. Workshop schedules will be published early with talk/paper titles to allow for the choice of attendance based on content.
+</p>
+
 
 <br> <br>
 <!-- Organizers -->
