@@ -10,13 +10,9 @@ layout: home
 
 <!-- <img src="/images/deep.jpg"> -->
 <center>
-<h2 class="blackpar_title">Efficient Natural Language and Multimodal Models</h2>
+<h2 class="blackpar_title">The 1st Efficient Natural Language and Multimodal Models Workshop</h2>
 </center>
 <p>
-
-<!-- Overview -->
-<h2 class="blackpar_title" id="Overview">Overview</h2>
-
 The landscape of AI has been significantly altered by the advances in large-scale pre-trained models, laying the groundwork for more general AI and allowing us to reach previously unattainable performance levels in natural language processing and multimodal learning. Despite the empirical success, these large-scale models require an enormous amount of computation to achieve high performance, hindering their deployment in devices with low memory and strict latency requirements. Additionally, these models often rely on large amounts of labeled training data that are difficult to acquire or annotate for many tasks, including those dealing with sensitive user data. Challenges also arise about how the model can continuously improve itself with feedback signals from users. We propose to organize a one-day track, focusing on model/data efficiency to build large-scale models.
 </p>
 
@@ -26,8 +22,6 @@ This event aims to bring together experts in machine learning, natural language 
 
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="Call for Papers">Call for Papers</h2>
-
-
 
 We encourage the community to submit their solutions, ideas, and ongoing work concerning efficiency for NLP and multimodal models. The scope of this workshop includes, but not limited to, the following topics.
 
@@ -275,8 +269,8 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 
 
 <br><br>
-<!-- Technical Committee -->
-<h2 class="blackpar_title" id="Technical Committee">Technical Committee</h2>
+<!-- Program Committee -->
+<h2 class="blackpar_title" id="Program Committee">Program Committee</h2>
 <table>
 	<tr>
 		<td>

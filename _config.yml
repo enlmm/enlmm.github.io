@@ -6,12 +6,11 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 # Customized links for main menu
 header_menu:
-  Overview:
   Call for Papers:
   Confirmed Spearkers:
   Organizers:
   Advisory Committee:
-  Technical Committee:
+  Program Committee:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
