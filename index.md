@@ -144,32 +144,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 </div>
 
 <br> <br>
-<!--h2 class="blackpar_title" id="Schedule">Schedule (EST time zone - New York/Montreal/Toronto)</h2>
-
-<!-- insert pop ups here -->
-
-
-<!-- -->
-
-<div class="row">
-	<table id="customers">
-		<tr>
-			<th>Time</th>
-			<th colspan="2">Title</th>
-			<th>Presenter</th>
-		</tr>
-		
-		
-		<!-- insert table here -->
-		
-		
-		
-		
-		<!-- -->
-
-	</table>
-</div-->
-
 
 <br> <br>
 <!-- Organizers -->
