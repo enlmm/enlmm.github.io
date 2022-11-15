@@ -40,7 +40,7 @@ We encourage the community to submit their solutions, ideas, and ongoing work co
 <h2 class="blackpar_title">Submission Instructions</h2>
 
 <p>
-The submission website will be up shortly. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages, following the ACL template style (which can be found <a href='https://github.com/acl-org/acl-style-files'>here</a>). 
+The submission website will be up shortly. All the submitted papers have to be anonymous for double-blind review. We expect each paper will be reviewed by at least three reviewers. The content of the paper (excluding the references and supplementary materials) should not be longer than 8 pages, following the ACL template style (which can be found <a href="https://github.com/acl-org/acl-style-files">here</a>). 
 <br><br>
 Authors can submit up to 100 MB of supplementary materials separately. Authors are highly encouraged to submit their codes for reproducibility purposes. Although original submissions are preferred, submitted papers can be among your already published or ArXiv papers, and your under submission works. Please make sure to indicate the complete list of conflict of interests for all the authors of your paper. To encourage higher quality submissions, our sponsors are offering the Best Paper Award to qualified outstanding original oral and poster presentations (upon nomination of the reviewers). Bear in mind that our workshop is not archival, but the accepted papers will be hosted on the workshop website.
 </p>
@@ -51,49 +51,85 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title" id="Confirmed Spearkers">Confirmed Speakers</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso">
-	  <img src="/images/mirella-lapata.jpeg" alt="Mirella Lapata" class="img_card_perso">
+	  <img src="images/bang-liu.jpeg" alt="Bang Liu" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Prof.<br>Mirella Lapata</b>
+			<b>Prof.<br>Bang Liu</b>
 			<br>
-			University of Edinburgh
+            University of Montreal
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/zettlemoyer.jpg" alt="Luke Zettlemoyer" class="img_card_perso">
+	  <img src="images/Yejin.jpg" alt="Yejin Choi" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Prof.<br>Luke Zettlemoyer</b>
+			<b>Prof.<br>Yejin Choi</b>
 			<br>
-			University of Washington (Facebook)
+			University of Washington (Allen Institute for AI)
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/kevin1.png" alt="Kevin Duh" class="img_card_perso">
+	  <img src="images/jianfeng-gao.jpg" alt="Jianfeng Gao" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Prof.<br>Kevin Duh</b>
+			<b>Dr.<br>Jianfeng Gao</b>
 			<br>
-			Johns Hopkins University
+            Microsoft Research
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/boxing.jpg" alt="Boxing Chen" class="img_card_perso">
+	  <img src="images/yoon-kim.jpg" alt="Yoon Kim" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Dr.<br>Boxing Chen</b>
+			<b>Prof.<br>Yoon Kim</b>
 			<br>
-			Alibaba
+            Massachusetts Institute of Technology
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<!--div class="card_perso column_perso">
+	  <img src="images/emma-strubell.jpg" alt="Emma Strubell" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Prof.<br>Emma Strubell</b>
+			<br>
+            Carnegie Mellon University
+		</h6>
+		</center>
+	  </div>
+	</div-->
+	<div class="card_perso column_perso">
+	  <img src="images/sameer-singh.jpg" alt="Sameer Singh" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Prof.<br>Sameer Singh</b>
+			<br>
+            University of California Irvine
+		</h6>
+		</center>
+	  </div>
+	</div>
+	<div class="card_perso column_perso">
+	  <img src="images/chunting-zhou.png" alt="Chunting Zhou" class="img_card_perso">
+	  <div class="container_perso">
+		<center>
+		<h6>
+			<b>Dr.<br>Chunting Zhou</b>
+			<br>
+            Meta AI Research
 		</h6>
 		</center>
 	  </div>
@@ -133,18 +169,6 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 			<b>Dr.<br>Mohammad Norouzi</b>
 			<br>
 			Google Brain
-		</h6>
-		</center>
-	  </div>
-	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/Yejin.jpg" alt="Yejin Choi" class="img_card_perso">
-	  <div class="container_perso">
-		<center>
-		<h6>
-			<b>Prof.<br>Yejin Choi</b>
-			<br>
-			University of Washington (Allen Institute for AI)
 		</h6>
 		</center>
 	  </div>
