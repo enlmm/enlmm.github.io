@@ -87,7 +87,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	  </div>
 	</div-->
 	<div class="card_perso column_perso">
-	  <img src="images/chunting-zhou.png" alt="Chunting Zhou" class="img_card_perso">
+	  <img src="images/chunting-zhou.jpeg" alt="Chunting Zhou" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
@@ -102,7 +102,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 
 <div class="row_perso">
 	<div class="card_perso column_perso">
-	  <img src="images/sameer-singh.jpg" alt="Sameer Singh" class="img_card_perso">
+	  <img src="images/sameer_singh.jpg" alt="Sameer Singh" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
@@ -114,7 +114,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="images/bang-liu.jpeg" alt="Bang Liu" class="img_card_perso">
+	  <img src="images/bang-liu.JPG" alt="Bang Liu" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
@@ -424,8 +424,3 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 </ul>
 -->
 <br><br>
-<h2 class="blackpar_title">Sponsor</h2>
-<center>
-	<img src="/images/logos.png">
-	
-</center>
