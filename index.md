@@ -178,37 +178,37 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 <h2 class="blackpar_title" id="Organizers">Organizers</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso" style="margin-left:13%;">
-	  <img src="/images/Mehdi_Rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card_perso">
+	  <img src="images/yuntian-deng.jpg" alt="Yuntian Deng" class="img_card_perso">
 	  <div class="container_perso" >
 		<center>
 		<h6>
-			<b>Mehdi Rezagholizadeh</b>
+			<b>Yuntian Deng</b>
 			<br>
-			Huawei Noah's Ark Lab
+            Harvard University
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso">
-	  <img src="/images/lili_mou.jpg" alt="Lili Mou" class="img_card_perso">
+	  <img src="images/mengzhou-xia.jpg" alt="Mengzhou Xia" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Lili Mou</b>
+			<b>Mengzhou Xia</b>
 			<br>
-			University of Alberta
+            Princeton University
 		</h6>
 		</center>
 	  </div>
 	</div>
 	<div class="card_perso column_perso" >
-	  <img src="/images/Yue_Dong.jpg" alt="Yue Dong" class="img_card_perso">
+	  <img src="images/mehdi-rezagholizadeh.jpg" alt="Mehdi Rezagholizadeh" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Yue Dong</b>
+			<b>Mehdi Rezagholizadeh</b>
 			<br>
-			McGill University & MILA
+            Huawei Noah's Ark Lab
 		</h6>
 		</center>
 	  </div>
@@ -216,45 +216,46 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 
 </div>
 <div class="row_perso">
-	<div class="card_perso column_perso" style="margin-left:13%;">
-	  <img src="/images/pascal_poupart.jpg" alt="Pascal Poupart" class="img_card_perso">
+	<div class="card_perso column_perso" >
+	  <img src="images/yue-dong.jpg" alt="Yue Dong" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Pascal Poupart</b>
+			<b>Yue Dong</b>
 			<br>
-			University of Waterloo
+            University of California, Riverside
 		</h6>
 		</center>
 	  </div>
 	</div>
 
 	<div class="card_perso column_perso" >
-	  <img src="/images/ali_ghodsi.jpg" alt="Ali Ghodsi" class="img_card_perso">
+	  <img src="images/shiyu-chang.jpg" alt="Shiyu Chang" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Ali Ghodsi</b>
+			<b>Shiyu Chang</b>
 			<br>
-			University of Waterloo
+            UC Santa Barbara
 		</h6>
 		</center>
 	  </div>
 	</div>
-	<div class="card_perso column_perso">
-	  <img src="/images/qun_liu.png" alt="Qun Liu" class="img_card_perso">
+
+	<div class="card_perso column_perso" >
+	  <img src="images/yu-cheng.jpg" alt="Yu Cheng" class="img_card_perso">
 	  <div class="container_perso">
 		<center>
 		<h6>
-			<b>Qun Liu</b>
+			<b>Yu Cheng</b>
 			<br>
-			Huawei Noah's Ark Lab
+            Microsoft Research
 		</h6>
 		</center>
 	  </div>
 	</div>
 </div>
-<h2 class="blackpar_title" id="Organizers">Volunteers</h2>
+<h2 class="blackpar_title" id="Organizers">Advisory Committee</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso" style="margin-left:25%;">
 	  <img src="/images/khalil_bibi.png" alt="Khalil Bibi" class="img_card_perso">
