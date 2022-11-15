@@ -230,7 +230,7 @@ Authors can submit up to 100 MB of supplementary materials separately. Authors a
 	  </div>
 	</div>
 </div>
-<h2 class="blackpar_title" id="Organizers">Advisory Committee</h2>
+<h2 class="blackpar_title" id="Advisory Committee">Advisory Committee</h2>
 <div class="row_perso">
 	<div class="card_perso column_perso" style="margin-left:25%;">
 	  <img src="images/ahmed-awadallah.jpg" alt="Ahmed H. Awadallah" class="img_card_perso">
