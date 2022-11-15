@@ -14,6 +14,9 @@ layout: home
 </center>
 <p>
 
+<!-- Overview -->
+<h2 class="blackpar_title" id="Overview">Overview</h2>
+
 The landscape of AI has been significantly altered by the advances in large-scale pre-trained models, laying the groundwork for more general AI and allowing us to reach previously unattainable performance levels in natural language processing and multimodal learning. Despite the empirical success, these large-scale models require an enormous amount of computation to achieve high performance, hindering their deployment in devices with low memory and strict latency requirements. Additionally, these models often rely on large amounts of labeled training data that are difficult to acquire or annotate for many tasks, including those dealing with sensitive user data. Challenges also arise about how the model can continuously improve itself with feedback signals from users. We propose to organize a one-day track, focusing on model/data efficiency to build large-scale models.
 </p>
 
